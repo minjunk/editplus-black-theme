@@ -1,0 +1,153 @@
+#TITLE=HTML
+;HTML
+;FONT replaced by SPAN
+;IMG with TITLE
+;A with HTTP://
+;by Shuster
+;
+
+;Kartros changes:
+;CASE	replaced to y						-->most compatibility to up to xhtml
+;APPLET replaced by <style type="text/css">^!</style>		-->style doesn't exist's and APPLET is deprecated in HTML4.01
+;B	replaced by <strong>^!</strong>				-->is better sintactically
+;I	replaced by <em>^!</em>					-->is better sintactically
+;U	replaced by <div>^!</div>				-->because the elm U is deprecated in HTML4.01
+;CENTER	replaced by <span style="text-align: center">^!</span>	-->because the elm CENTER is deprecated in HTML4.01
+;End Kartros changes
+
+; EditPlus Auto-completion File for HTML
+; <WARNING>
+; This file is required for EditPlus to run correctly.
+; You can modify only the content of each entry.
+; Do not add/remove any entry.
+; Do not modify title of each entry.
+
+#CASE=y
+
+#T=B
+<strong>^!</strong>
+#T=I
+<em>^!</em>
+#T=U
+<div>^!</div>
+#T=H1
+<h1>^!</h1>
+#T=H2
+<h2>^!</h2>
+#T=H3
+<h3>^!</h3>
+#T=H4
+<h4>^!</h4>
+#T=H5
+<h5>^!</h5>
+#T=H6
+<h6>^!</h6>
+#T=BR
+<br>
+#T=P
+<p>^!</p>
+#T=nb
+&nbsp;
+#T=A
+<a href="http://" title="">^!</a>
+#T=HR
+<hr>
+#T=IMG
+<img src="" width="" height="" border="0" alt="^!" title="">
+#T=CENTER
+<span style="text-align: center">^!</span>
+#T=BLOCKQUOTE
+<blockquote>^!</blockquote>
+#T=PRE
+<pre>^!</pre>
+#T=<!
+<!-- ^! -->
+#T=UL
+<ul>
+	<li>^!</li>
+	<li></li>
+</ul>
+#T=OL
+<ol>
+	<li>^!</li>
+	<li></li>
+</ol>
+#T=DL
+<dl>
+	<dt>^!</dt>
+	<dd></dd>
+</dl>
+#T=FORM
+<form method="post" action="">
+^!
+</form>
+#T=FRAME
+<frameset rows="^!," cols=",">
+	<frame src="" name="">
+	<frame src="" name="">
+</frameset>
+#T=MAP
+<map name="^!"></map>
+#T=SCRIPT
+<script type="text/javascript">
+    <!--
+    ^!
+   / -->
+</script>
+#T=APPLET
+<style type="text/css">
+	^!
+</style>
+#T=TEXT
+<input type="text" name="^!">
+#T=SELECT
+<select name="">
+	<option>^!</option>
+	<option></option>
+	<option></option>
+</select>
+#T=RADIO
+<input type="radio" name="^!" value="" checked="">
+#T=CHECKBOX
+<input type="checkbox" name="^!" value="" checked="">
+#T=TEXTAREA
+<textarea name="" rows="" cols="">^!</textarea>
+#T=RESET
+<input type="reset" value="Reset">
+#T=SUBMIT
+<input type="submit" value="Submit">
+#T=PASSWORD
+<input type="password" name="^!">
+#T=HIDDEN
+<input type="hidden" name="^!">
+#T=FORMIMAGE
+<input type="image" name="^!">
+#T=FONT
+<span style="">^!</span>
+#T=TABLE
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+#T=TABLE2
+</table>
+
+#T=TR
+<tr>
+
+#T=TR2
+</tr>
+
+#T=TD
+	<td>^!</td>
+
+#T=TD2
+	<td></td>
+
+#T=OBJECT
+<object id="%s" width="^!" height="" classid="CLSID:%s">
+</object>
+#
+
+
+;#T=APPLET
+;<applet code="^!" width="" height="">
+;</applet>
