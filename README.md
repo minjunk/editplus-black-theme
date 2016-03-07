@@ -24,8 +24,8 @@ Editplus의 어두운 테마 입니다. 2003년 [미니위니](http://miniwini.c
 
 `INI 파일 디렉토리`를 변경해 주시면 됩니다.
 
-![Editplus 4 디렉토리 지정](http://3600s.github.com/editplus-black-theme/images/setup7.png)
-
+> ![Editplus 4 디렉토리 지정](http://3600s.github.com/editplus-black-theme/images/setup7.png)
+>
 > Editplus 4이상에서는 디렉토리를 변경 할 경우 **일부 기능이 동작하지 않을 수 있으므로**, `가져오기...`를 통해 `Editplus_INI`를 가져오셔야 합니다.
 
 ### 구문 디렉토리 지정
