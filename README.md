@@ -3,28 +3,28 @@ Editplus의 어두운 테마 입니다. 2003년 [미니위니](http://miniwini.c
 
 ## 모양
 
-![Editplus Black Theme](http://3600s.github.com/editplus-black-theme/images/setup6.png)
+![Editplus Black Theme](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup6.png)
 
 ## 설치 방법
 
 ### Editplus 설치 시
 
-![Editplus 설치 디렉토리 선택](http://3600s.github.com/editplus-black-theme/images/setup1.png)
+![Editplus 설치 디렉토리 선택](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup1.png)
 
 `INI 파일 디렉토리`를 컬러설정이 있는 디렉토리로 변경 해 주시면 됩니다.
 
 ### 에디터에서 설정 변경 시
 
-![Editplus 디렉토리 지정1](http://3600s.github.com/editplus-black-theme/images/setup2.png)
+![Editplus 디렉토리 지정1](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup2.png)
 
 상단 풀다운 메뉴에서 `도구`->`디렉토리 지정`으로 이동하신 후
 
-![Editplus 디렉토리 지정2](http://3600s.github.com/editplus-black-theme/images/setup3.png)
-![Editplus 디렉토리 지정3](http://3600s.github.com/editplus-black-theme/images/setup4.png)
+![Editplus 디렉토리 지정2](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup3.png)
+![Editplus 디렉토리 지정3](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup4.png)
 
 `INI 파일 디렉토리`를 변경해 주시면 됩니다.
 
-> ![Editplus 4 디렉토리 지정](http://3600s.github.com/editplus-black-theme/images/setup7.png)
+> ![Editplus 4 디렉토리 지정](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup7.png)
 >
 > Editplus 4이상에서는 디렉토리를 변경 할 경우 **일부 기능이 동작하지 않을 수 있으므로**, `가져오기...`를 통해 `Editplus_INI`를 가져오셔야 합니다.
 
@@ -36,4 +36,4 @@ Editplus의 어두운 테마 입니다. 2003년 [미니위니](http://miniwini.c
 
 스크린샷과 동일한 폰트효과를 얻고 싶다면 아래와 같이 `사용자 정의 2`를 선택하면 됩니다.
 
-![Editplus 폰트 변경](http://3600s.github.com/editplus-black-theme/images/setup5.png)
+![Editplus 폰트 변경](https://bytebucket.org/minjunk/editplus-black-theme/raw/645980377b04d547fed63f028fc7ddf552c207ce/images/setup5.png)
